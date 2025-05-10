@@ -1,9 +1,9 @@
 [project]
 name = "fast-zero"
 version = "0.1.0"
-description = ""
+description = "Curso FastAPI 2025 - Dunossauro"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Fernando Sousa",email = "falefernando01@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13,<4.0"
